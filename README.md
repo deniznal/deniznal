@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my profile
+- I'm a third year computer science student from Özyeğin University.
+- I'm currently learning front-end development.
+- I hope to learn game development in the future.
+- I have some experience in embedded systems programming.
 
 <!--
 **deniznal/deniznal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
