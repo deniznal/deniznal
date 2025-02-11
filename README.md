@@ -1,6 +1,6 @@
 ## Welcome to my profile
 - I'm a third year computer science student from Özyeğin University.
-- I'm currently learning front-end development.
+- I'm currently learning front-end development, network security and multimedia systems.
 - I hope to learn game development in the future.
 - I have some experience in embedded systems programming.
 
