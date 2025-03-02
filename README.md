@@ -3,6 +3,7 @@
 - I'm currently learning front-end development, network security and multimedia systems.
 - I hope to learn game development in the future.
 - I have some experience in embedded systems programming.
+- Fun fact: I make art as a hobby. My profile picture is a self portrait ^_^
 
 <!--
 **deniznal/deniznal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
